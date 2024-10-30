@@ -38,4 +38,4 @@
 
 ## Contributing
 
-We welcome contributions to enhance Cricket Manager!
+Welcome contributions to enhance Cricket Manager!
